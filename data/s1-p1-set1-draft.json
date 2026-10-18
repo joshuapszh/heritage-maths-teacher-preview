@@ -1,0 +1,691 @@
+{
+  "status": "DRAFT v4 — teacher-moderation rubrics included; automatic first-answer score is NOT exam method score",
+  "title": "Secondary 1 · Paper 1 · Set 1",
+  "questions": [
+    {
+      "id": "S1P1S1-Q01",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1A",
+      "difficulty": "basic",
+      "topic": "Whole-number arithmetic",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "An exhibition centre packs 432 wristbands equally into 12 cartons. (a) How many wristbands are in each carton? (b) How many wristbands are in 7 cartons?",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 36
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 252
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "432 ÷ 12 = 36 wristbands",
+        "36 × 7 = 252 wristbands"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Do not multiply 432 by 7 before finding the number in one carton."
+      ],
+      "explanation": "432 ÷ 12 = 36 wristbands per carton; 7 cartons contain 36 × 7 = 252 wristbands.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q02",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1A",
+      "difficulty": "basic",
+      "topic": "Algebraic manipulation",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "A rectangle has width 9 cm and length \\(x+4\\) cm. Its perimeter is 54 cm. (a) Find its length. (b) Find \\(x\\).",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 18
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 14
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "Length = 54 ÷ 2 − 9 = 18 cm",
+        "x + 4 = 18, hence x = 14"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Do not subtract the width directly from the full perimeter; first divide the perimeter by 2."
+      ],
+      "explanation": "Half the perimeter is 27 cm, so length = 27 − 9 = 18 cm. Since x + 4 = 18, x = 14.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q03",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "basic",
+      "topic": "Ratio",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "A display has yellow and purple lights in the ratio 3 : 8. There are 72 purple lights. (a) Find the number of lights represented by one part. (b) Find the number of yellow lights.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 9
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 27
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "One part = 72 ÷ 8 = 9",
+        "Yellow lights = 3 × 9 = 27"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Do not treat 72 as the total number of lights; it represents only the eight purple parts."
+      ],
+      "explanation": "Eight ratio parts represent 72 purple lights, so one part is 9. Yellow lights = 3 × 9 = 27.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q04",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "basic",
+      "topic": "Percentage",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "A science-centre admission ticket costs $120. A promotional discount of 15% is offered. (a) Find the discount. (b) Find the amount payable.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 18
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 102
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "Discount = 15/100 × 120 = $18",
+        "Amount payable = $120 − $18 = $102"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "A 15% discount is not automatically $15; calculate 15% of the original ticket price."
+      ],
+      "explanation": "The discount is 15% of $120 = $18. The amount payable is $120 − $18 = $102.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q05",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "basic",
+      "topic": "Rate",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "A water tank receives 48 litres in 3 minutes and another 36 litres in the following 2 minutes. (a) Find the total volume received. (b) Find the average flow rate in litres per minute.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 84
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 16.8
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "Total = 48 + 36 = 84 litres",
+        "Average flow rate = 84 ÷ (3 + 2) = 16.8 litres/min"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Do not average the separate rates 48 ÷ 3 and 36 ÷ 2; use total volume ÷ total time = 84 ÷ 5."
+      ],
+      "explanation": "The answer is in litres per minute, not minutes per litre.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q06",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "moderate",
+      "topic": "Number patterns",
+      "marks": 5,
+      "stepMarks": [
+        3,
+        2
+      ],
+      "prompt": "The first three terms of a sequence are 7, 12, 17. (a) Express the nth term in terms of n (enter using x for the term position). (b) Find its 15th term.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "algebra",
+          "answer": "5x+2"
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 77
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "nth term = 7 + 5(n − 1) = 5n + 2",
+        "15th term = 5(15) + 2 = 77"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "The nth term is not 5n + 7, because this gives 12 instead of 7 for n = 1."
+      ],
+      "explanation": "The difference is 5, so the nth term is 7 + 5(n − 1) = 5n + 2. Check n = 1 gives 7 and n = 2 gives 12.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid rule or relationship.",
+            "M1: Show a valid substitution or simplification.",
+            "A1: Obtain the correct expression or value."
+          ]
+        },
+        "partB": {
+          "marks": 2,
+          "criteria": [
+            "M1: Use a correct continuation based on the appropriate method.",
+            "A1: Obtain the correct answer with units where applicable."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q07",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "moderate",
+      "topic": "Area of composite shapes",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "A rectangular courtyard measures 20 m by 12 m. A square flower bed of side 6 m is excluded from the paved region. (a) Find the area of the courtyard. (b) Find the remaining paved area.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 240
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 204
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "Courtyard area = 20 × 12 = 240 m²",
+        "Paved area = 240 − 6² = 204 m²"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Subtract the flower bed area, 6 × 6 = 36 m², rather than its side length."
+      ],
+      "explanation": "Check units: both answers are square metres.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "diagram": {
+        "kind": "composite-rectangle",
+        "outer": [
+          20,
+          12
+        ],
+        "inner": [
+          6,
+          6
+        ],
+        "unit": "m"
+      },
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q08",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "moderate",
+      "topic": "Statistical averages",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "The seven scores are 6, 14, 9, 11, 14, 8 and 16. (a) Find the median. (b) Find the mean, correct to 3 significant figures.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 11
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 11.1,
+          "format": {
+            "significantFigures": 3
+          }
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "Ordered scores: 6, 8, 9, 11, 14, 14, 16; median = 11",
+        "Sum = 78, so mean = 78 ÷ 7 = 11.142857… ≈ 11.1 (3 significant figures)."
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Do not take the median from the unsorted list or round the sum before dividing."
+      ],
+      "explanation": "Seven values give a median at the fourth ordered value. Round the calculated mean only at the end.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q09",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "moderate",
+      "topic": "Volume of prisms",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "A prism has a triangular cross-section with base 12 cm and perpendicular height 8 cm. The prism is 15 cm long. (a) Find the cross-sectional area. (b) Find the volume.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 48
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 720
+        }
+      ],
+      "hints": [
+        "Identify the relevant formula or relationship.",
+        "Work through part (a), showing each operation.",
+        "Use the result and check the units and reasonableness of part (b)."
+      ],
+      "solution": [
+        "Area = ½ × 12 × 8 = 48 cm²",
+        "Volume = 48 × 15 = 720 cm³"
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Remember the factor ½ when finding a triangular cross-sectional area."
+      ],
+      "explanation": "The triangular area is ½ × 12 × 8 = 48 cm². Volume = 48 × 15 = 720 cm³.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "diagram": {
+        "kind": "triangular-prism",
+        "base": 12,
+        "height": 8,
+        "length": 15,
+        "unit": "cm"
+      },
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    },
+    {
+      "id": "S1P1S1-Q10",
+      "level": "Secondary 1",
+      "paper": 1,
+      "set": 1,
+      "book": "1B",
+      "difficulty": "challenging",
+      "topic": "Financial mathematics",
+      "marks": 5,
+      "stepMarks": [
+        2,
+        3
+      ],
+      "prompt": "A stationery stall buys 50 pens at $4 each. It sells 35 pens at $7 each and sells the other 15 at $3 each. (a) Calculate its total sales revenue. (b) Express the overall profit as a percentage of the total cost, correct to 1 decimal place.",
+      "steps": [
+        {
+          "label": "Part (a)",
+          "type": "numeric",
+          "answer": 290
+        },
+        {
+          "label": "Part (b)",
+          "type": "numeric",
+          "answer": 45,
+          "format": {
+            "decimalPlaces": 1
+          }
+        }
+      ],
+      "hints": [
+        "Revenue comes from both groups of sales.",
+        "Find total cost and subtract it from total revenue to find profit.",
+        "Profit percentage uses the cost price as denominator: profit ÷ cost × 100%."
+      ],
+      "solution": [
+        "Revenue = 35 × $7 + 15 × $3 = $290",
+        "Cost = 50 × $4 = $200; profit = $290 − $200 = $90; profit percentage = ($90 ÷ $200) × 100% = 45.0%."
+      ],
+      "teacherReviewStatus": "UNVERIFIED",
+      "source": "independently authored development draft",
+      "commonMistakes": [
+        "Do not divide profit by revenue when asked for profit as a percentage of cost."
+      ],
+      "explanation": "The result is a percentage of the original cost, not of the sales revenue.",
+      "markingNotes": [
+        "Part (a): 2 marks associated with a correct answer; written reasoning requires teacher review.",
+        "Part (b): 3 marks associated with a correct answer; written reasoning requires teacher review."
+      ],
+      "reviewVersion": 4,
+      "teacherRubric": {
+        "status": "PROVISIONAL_TEACHER_RUBRIC",
+        "partA": {
+          "marks": 2,
+          "criteria": [
+            "M1: Select and apply an appropriate relationship or calculation.",
+            "A1: Obtain the correct answer with appropriate units where applicable."
+          ]
+        },
+        "partB": {
+          "marks": 3,
+          "criteria": [
+            "M1: Establish a valid calculation or relationship.",
+            "M1: Show a correct intermediate step or justified use of part (a).",
+            "A1: Obtain the correct final answer with units or rounding as required."
+          ]
+        },
+        "automaticScoring": "DOES NOT ASSESS METHOD MARKS"
+      }
+    }
+  ]
+}
